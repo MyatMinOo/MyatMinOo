@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyatMinOo
-- 👀 I’m interested in front-end and back-end coding, cloud technologies, network administrator
-- 🌱 I’m currently learning C#, PHP, Android, linux, postgresql, mysql, awsCloud
+- 👀 I’m interested in Full Stack Developer, cloud technologies
+- 🌱 I’m currently learning C#, Android, postgresql, Microsoft SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
